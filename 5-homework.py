@@ -23,16 +23,15 @@
 # FizzBuzz
 # 16
 
-# Problem 2: Fibonacci
-# Write a loop that prints the first 20 numbers in the Fibonacci sequence. The Fibonacci sequence is a 
-# series of numbers where a number is the sum of the two numbers before it. The first couple numbers should be
-#
-# 1
-# 1
-# 2
-# 3
-# 5
-# etc.
+
+# Problem 2: Factorial
+# Given some number n, print out n! (as in the product of all numbers from 1 to n)
+
+n = 8
+# start your implementation here and reference the above variable: n
+# In this case, it should print 40320
+
+
 
 # Problem 3: I took 10 samples of salaries from the EPID department. 
 # What is the average salary overall? What is the average salary for 
@@ -93,3 +92,17 @@ EPID_salaries = [
         "salary": 137577.69
     },
 ]
+
+
+# Problem 4 Hard Extra Credit: Fibonacci
+# Write a loop that prints the first 20 numbers in the Fibonacci sequence. The Fibonacci sequence is a 
+# series of numbers where a number is the sum of the two numbers before it. The first couple numbers should be
+#
+# 1
+# 1
+# 2
+# 3
+# 5
+# etc.
+
+
